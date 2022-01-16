@@ -4,3 +4,6 @@ Skin cancer is one of most deadly diseases in humans. According to the high simi
 About 75% of deaths related to skin cancer come from Melanoma lesions. Survival rate of patients could be increased if melanoma was recognized accurately in its early stages. Manual detection of melanoma requires well-trained specialists to overcome variations of inter-observation. Thus, if the melanoma recognition has been done automatically, it will increase efficiency and accuracy of the early detection of this kind of cancer. The objective of this project is to propose a methodology for the automatic classification of skin lesions, based on image analysis and machine learning.
 
 In the notebook file, we're going to extract feature following the ABCD rule then using several algorithms evaluate the classification methods 
+
+![download](https://user-images.githubusercontent.com/54766840/149657242-5ff99f09-7ad3-4627-9184-d97f42bae2ba.png)
+![download (1)](https://user-images.githubusercontent.com/54766840/149657252-052b7aa8-85f3-41f4-a4f7-f89bd687b2bf.png)
